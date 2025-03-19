@@ -1,0 +1,6 @@
+projectKey=WebGoat
+serverUrl=http://localhost:32768
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:32768/dashboard?id=WebGoat
+ceTaskId=e1ff5e92-75c6-4cf6-8f32-9a5c1e3ee536
+ceTaskUrl=http://localhost:32768/api/ce/task?id=e1ff5e92-75c6-4cf6-8f32-9a5c1e3ee536
